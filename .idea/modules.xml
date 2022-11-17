@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Thinking-in-Spring-demo.iml" filepath="$PROJECT_DIR$/.idea/Thinking-in-Spring-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thinking-spring-demo/charpter1.2/charpter1.2.iml" filepath="$PROJECT_DIR$/thinking-spring-demo/charpter1.2/charpter1.2.iml" />
       <module fileurl="file://$PROJECT_DIR$/thinking-spring-demo/spring-aop/spring-aop.iml" filepath="$PROJECT_DIR$/thinking-spring-demo/spring-aop/spring-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thinking-spring-demo/spring-beans/spring-beans.iml" filepath="$PROJECT_DIR$/thinking-spring-demo/spring-beans/spring-beans.iml" />
       <module fileurl="file://$PROJECT_DIR$/thinking-spring-demo/thinking-spring-demo.iml" filepath="$PROJECT_DIR$/thinking-spring-demo/thinking-spring-demo.iml" />
     </modules>
   </component>
