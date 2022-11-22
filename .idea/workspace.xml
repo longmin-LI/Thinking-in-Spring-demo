@@ -5,33 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91828310-7971-46d8-8e1f-eb0f634e5378" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_10_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-spring-demo/charpter1.2/charpter1.2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-spring-demo/charpter1.2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-spring-demo/charpter1.2/src/main/java/org/example/spring/beans/config/CDPlayerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-spring-demo/charpter1.2/src/main/java/org/example/spring/beans/pojo/CompactDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-spring-demo/charpter1.2/src/main/java/org/example/spring/beans/pojo/SgtPeppers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-spring-demo/charpter1.2/src/main/resources/META-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-spring-demo/charpter1.2/src/test/java/org/example/spring/beans/CDPlayerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-spring-demo/spring-beans/spring-beans.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-spring-demo/spring-beans/src/main/java/org/example/spring/beans/bootstrap/XmlBasedApplicationContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-spring-demo/spring-beans/src/main/java/org/example/spring/beans/pojo/BraveKnight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-spring-demo/spring-beans/src/main/java/org/example/spring/beans/pojo/Minstrel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-spring-demo/spring-beans/src/main/java/org/example/spring/beans/service/JDBCBoilerPlate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-spring-demo/spring-beans/src/main/resources/META-INF/applicationcontext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-spring-demo/spring-beans/src/test/java/org/example/spring/beans/pojo/KnightTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinking-spring-demo/charpter1.2/src/main/java/org/example/spring/beans/pojo/CDPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinking-spring-demo/charpter1.2/src/main/java/org/example/spring/beans/pojo/MediaPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thinking-spring-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/thinking-spring-demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thinking-spring-demo/spring-beans/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/thinking-spring-demo/spring-beans/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="UML Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -118,7 +95,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
@@ -203,7 +180,7 @@
       <workItem from="1667887123010" duration="510000" />
       <workItem from="1667887651800" duration="18014000" />
       <workItem from="1668486140268" duration="2284000" />
-      <workItem from="1668608959953" duration="4368000" />
+      <workItem from="1668608959953" duration="12974000" />
     </task>
     <servers />
   </component>
